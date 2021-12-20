@@ -1,0 +1,46 @@
+body{
+    background-color: #798eb1;
+}
+.keyboard{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding:30px;
+
+    width:580px;
+    height:650px;
+    padding: 10px;
+    font-size: 50px;
+    box-shadow: 50px 30px 50px black;
+    background-color: blanchedalmond;
+      
+}
+textarea{
+    display: flex;
+    margin:auto;
+    width:400px;
+    height:200px
+}
+button{
+    font-size: 14px;
+    background-color: black;
+    color:white;
+    font-family: cursive;
+    border-radius: 30%;
+
+}
+button:hover{
+    font-size:16px;
+    text-shadow: blue;
+    background-color: tomato;
+    
+    
+}
+#cap:active{
+    background-color: blue;
+}
+.but{
+   justify-content: center;
+   align-items: center;
+}
